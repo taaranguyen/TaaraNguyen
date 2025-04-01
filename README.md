@@ -7,6 +7,8 @@ _Welcome to my GitHub profile! I'm a RMIT International Business Graduate and a 
 
 🌱 I'm learning **Excel**, **SQL**, **Python** and **Tableau**.
 
+👀 Fun fact: My favorite part of the data analysis process is transforming a basic, boring report into an engaging and visually appealing one that's easy to understand.
+
 ## Featured Projects 📊
 
 Here are a few of the projects I’ve worked on:
