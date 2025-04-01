@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Taara 👋
+_Welcome to my GitHub profile! I'm a RMIT International Business Graduate and a former 5G Networks Ltd Billing & Accounts Receivable Officer passionate about exploring and analysing data to obtain insights and suggest actionable recommendations._ 
 
-<!--
-**taaranguyen/TaaraNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👩🏻‍🦰
 
-Here are some ideas to get you started:
+👩🏻‍💻 I’m currently working on becoming a **Data Analyst**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm learning **Excel**, **SQL**, **Python** and **Tableau**.
+
+## Featured Projects 📊
+
+Here are a few of the projects I’ve worked on:
+
+📈 **Project 1: Amazon Discount Impact on Sales and Customer Analysis** – Investigate how discounts are distributed to uncover their influence on product ratings, sales performance, and customer satisfaction, and then offer actionable insights and recommendations.
+
+📉 **Project 2: PwC Customer Churn Analysis** – Performe EDA on customer demographics and behaviors, then building a churn prediction model to identify key risk factors and inform retention strategies.
+
+Feel free to check them out and contribute!
+
+## How to Reach Me 📍
+
+📫 **Email**: thutaara@gmail.com
+
+💬 **LinkedIn**: http://linkedin.com/in/taara-nguyen-66bb88256
+
+**Let's Connect!**
+
+I’m always excited to connect with other developers and learn from the community. Don't hesitate to reach out if you want to collaborate, chat about tech, or share ideas!
