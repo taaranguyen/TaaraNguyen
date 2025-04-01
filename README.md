@@ -1,4 +1,4 @@
-# Hi there, I'm Taara 👋
+# Hey, I'm Taara, how's it going? 👋
 _Welcome to my GitHub profile! I'm a RMIT International Business Graduate and a former 5G Networks Ltd Billing & Accounts Receivable Officer passionate about exploring and analysing data to obtain insights and suggest actionable recommendations._ 
 
 ## About Me 👩🏻‍🦰
