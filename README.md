@@ -15,7 +15,7 @@ Here are a few of the projects I’ve worked on:
 
 📈 **Project 1: Amazon Discount Impact on Sales and Customer Analysis** – Investigate how discounts are distributed to uncover their influence on product ratings, sales performance, and customer satisfaction, and then offer actionable insights and recommendations.
 
-📉 **Project 2: PwC Customer Churn Analysis** – Performe EDA on customer demographics and behaviors, then building a churn prediction model to identify key risk factors and inform retention strategies.
+📉 **Project 2: PwC Customer Churn Analysis** – Perform EDA on customer demographics and behaviors, then building a churn prediction model to identify key risk factors and inform retention strategies.
 
 Feel free to check them out and contribute!
 
